@@ -65,7 +65,7 @@ class Login extends React.Component{
         return (
             <div className="col-md-4 col-md-offset-4">
                 <div className="panel panel-default login-panel">
-                    <div className="panel-heading">欢迎登录 - MMALL管理系统</div>
+                    <div className="panel-heading">欢迎登录 - 林志颖的商品管理系统</div>
                     <div className="panel-body">
                         <div>
                             <div className="form-group">
